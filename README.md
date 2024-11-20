@@ -1,5 +1,5 @@
 # itmBySpringBoot
-Issue tracking systemを作成してspring bootを使用してどのようにWebアプリケーションを作成するのかを学びました。
+Issue tracking systemを作成してspring bootを使用してWebアプリケーションを作成しました。
 # 概要
 
 # キーワード
